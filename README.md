@@ -10,7 +10,7 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 - **Databases:** MySQL, MongoDB, Redis
 - **Tools & Platforms:** Git, Docker, Postman, AWS, Linux
 - **Other Expertise:** API Integration, Authentication Systems, Agile Methodologies
-
+ 
 ---
 
 ## 🔥 My Stats:
